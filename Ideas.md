@@ -1,0 +1,4 @@
+- https://mir-server.io/
+- https://www.yoctoproject.org/
+- https://github.com/electron/electron
+- https://github.com/os-js/OS.js
